@@ -5,7 +5,7 @@ This repository is a contribution of my PhD at University of York (CFAA), in whi
 
 # Methodology
 
-A survey of fusion maintenance literature was undertaken to ascertain progress in the field. The following `advanced query' was executed on the Scope online database:
+A survey of fusion maintenance literature was undertaken to ascertain progress in the field as of September 2024. The following `advanced query' was executed on the Scope online database:
 
     
     TITLE("remote maintenance" OR "maintenance" OR "remote handling" AND ("nuclear fusion" OR "nuclear maintenance" OR "tokamak devices" OR "tokamak" OR "ITER" OR "JET" OR "DEMO" OR "CFETR" OR "JT60" OR "JT-60" OR "EAST" OR "ST-E1" OR "ARC" OR "SPARC" OR "GP-FPP" OR "DTT" OR "T-15" OR "PST))
@@ -21,8 +21,7 @@ In plain English, the query matches documents which:
 - Are within the subject areas of computer science, energy, engineering, and physics
 - Do *not* include "sensor fusion" or "image fusion" in their titles, abstracts, or keywords.
 - Include at least one of "tokamak", "nuclear fusion", "fusion energy", "nuclear reactors" or "tokamak devices" in their keywords.
-- Were published between 2000 and 2024.
-
+- 
 The result was a set of 545 publications. These publications were then manually sorted eliminate irrelevant entries, leaving 382 entries. The valid entries were again manually sorted according to their titles and abstracts to establish their themes, the projects they pertained to, and the plant systems they addressed. The themes and systems were defined as such: 
 
 ## Themes
