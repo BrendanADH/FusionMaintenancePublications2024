@@ -23,7 +23,7 @@ In plain English, the query matches documents which:
 - Include at least one of "tokamak", "nuclear fusion", "fusion energy", "nuclear reactors" or "tokamak devices" in their keywords.
 - Were published between 2000 and 2024.
 
-The result was a set of 545 publications. These publications were then manually sorted eliminate irrelevant entries. The valid entries were again manually sorted according to their titles and abstracts to establish their themes, the projects they pertained to, and the plant systems they addressed. The themes and systems were defined as such: 
+The result was a set of 545 publications. These publications were then manually sorted eliminate irrelevant entries, leaving 382 entries. The valid entries were again manually sorted according to their titles and abstracts to establish their themes, the projects they pertained to, and the plant systems they addressed. The themes and systems were defined as such: 
 
 ## Themes
 
