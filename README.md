@@ -20,7 +20,7 @@ In plain English, the query matches documents which:
 - Are within the subject areas of computer science, energy, engineering, and physics
 - Do *not* include "sensor fusion" or "image fusion" in their titles, abstracts, or keywords.
 - Include at least one of "tokamak", "nuclear fusion", "fusion energy", "nuclear reactors" or "tokamak devices" in their keywords.
-- 
+
 The result was a set of 545 publications. These publications were then manually sorted eliminate irrelevant entries, leaving 382 entries. The valid entries were again manually sorted according to their titles and abstracts to establish their themes, the projects they pertained to, and the plant systems they addressed. The themes and systems were defined as such: 
 
 ## Themes
