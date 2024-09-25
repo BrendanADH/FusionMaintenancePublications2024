@@ -1,7 +1,6 @@
-# FusionMaintenancePublications2024
-A dataset containing categorised papers pertaining to nuclear fusion maintenance.
+# Fusion Maintenance Publications 2024 - A Publication Dataset about Nuclear Fusion Maintenance
 
-This repository is a contribution of my PhD at University of York (CFAA), in which I survey current practises in fusion maintenace.
+A dataset containing categorised papers pertaining to nuclear fusion maintenance. This is a contribution of my PhD at University of York (CFAA), in which I survey current practises in fusion maintenace.
 
 # Methodology
 
